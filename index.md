@@ -1,10 +1,3 @@
-
----
-layout: default
-title: Start
-permalink: /
----
-
 <section class="hero" id="home" aria-labelledby="hero-title">
   <div class="hero-media"><!-- Optional: assets/img/hero.jpg --></div>
   <div class="hero-content container">

@@ -1,0 +1,12 @@
+
+<header class="site-header">
+  <div class="container">
+    <h1 class="brand"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+    <p class="tag">Senior ERP Consulting · Dynamics NAV/BC</p>
+    <nav class="nav">
+      {% for item in site.nav %}
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>

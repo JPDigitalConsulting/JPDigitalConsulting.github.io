@@ -1,10 +1,3 @@
-
----
-layout: default
-title: Services
-permalink: /services/
----
-
 ## Services
 
 - **Business Central (BC) Upgrades** – planning, governance, execution

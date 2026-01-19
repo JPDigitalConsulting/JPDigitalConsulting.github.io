@@ -1,10 +1,3 @@
-
----
-layout: default
-title: Projects
-permalink: /projects/
----
-
 ## Selected Projects
 
 ### Business Central Upgrade – Food B2B/B2C (Germany)
@@ -21,7 +14,7 @@ permalink: /projects/
 - Scalable solution concepts aligned with BC standards  
 - Coordinated development & testing for quality delivery
 
-### Internal Transformation – Fond Of GmbH
+### Internal Transformation
 **Role:** Project Manager / Internal Consultant (Process & Governance)  
 - PM framework for ERP team, agile ways of working  
 - Ticketing processes & key user management  

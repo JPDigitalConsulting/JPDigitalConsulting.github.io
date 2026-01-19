@@ -1,10 +1,3 @@
-
----
-layout: default
-title: Contact
-permalink: /contact/
----
-
 ## Contact
 
 - 📧 Email: [jp.consulting.pte@gmail.com](mailto:jp.consulting.pte@gmail.com)

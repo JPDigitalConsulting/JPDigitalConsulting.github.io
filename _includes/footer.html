@@ -1,0 +1,22 @@
+
+<footer class="site-footer container">
+  <p>© <span id="year"></span> Jan Hirt – JP Digital Consulting Pte Ltd</p>
+  <nav aria-label="Footer">
+    <a href="#home">Nach oben</a>
+    <a href="mailto:hello@jpdigital.consulting">Impressum/Kontakt</a>
+  </nav>
+  <script>
+    // Mobile Navigation Toggle
+    const toggle = document.querySelector('.nav-toggle');
+    const nav = document.querySelector('.site-nav');
+    if (toggle && nav) {
+      toggle.addEventListener('click', () => {
+        const isOpen = nav.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', String(isOpen));
+      });
+    }
+    // Jahr im Footer aktualisieren
+    const y = document.getElementById('year');
+    if (y) y.textContent = new Date().getFullYear();
+  </script>
+</footer>

@@ -1,9 +1,3 @@
-
----
-layout: default
-title: About
----
-
 # Jan Peter Hirt
 Senior ERP Consultant & Project Manager (Dynamics NAV/Business Central)
 

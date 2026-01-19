@@ -23,8 +23,8 @@ nav:
     url: /services/
   - title: Projects
     url: /projects/
-  - title: Contact
-    url: /contact/
+ # - title: Contact
+ #   url: /contact/
 
 # Build
 markdown: kramdown
